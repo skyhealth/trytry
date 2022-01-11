@@ -158,4 +158,4 @@ def modify():
     por.loc[indeks,'Porosity']=round(p_new,2)
     por.loc[indeks,'Grain Density']=round(d_new,2)
     por.loc[indeks,'Keterangan']=k_new
-    display(por)
+    poe.head
